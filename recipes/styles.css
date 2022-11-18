@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+ul li {
+    font-weight: 800;
+}
+
+.main ul li {
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
